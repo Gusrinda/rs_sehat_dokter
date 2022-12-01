@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "722376118960",
+    "project_id": "rs-sehat",
+    "storage_bucket": "rs-sehat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722376118960:android:74ec13c40e19ebbb126175",
+        "android_client_info": {
+          "package_name": "com.rs_sehat.dokter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722376118960-7fn61a554rphidkb1qlj44bmr7uifm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADumN3pkr4lnbUwTBRLkHG6BY6N0ZfRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722376118960-7fn61a554rphidkb1qlj44bmr7uifm8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722376118960-6ljdm4olgkh88v7b3msh4qtoaj3nsb4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blitarsehat.pasien"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722376118960:android:2aa61fd832abe811126175",
+        "android_client_info": {
+          "package_name": "com.rs_sehat.pasien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722376118960-7fn61a554rphidkb1qlj44bmr7uifm8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADumN3pkr4lnbUwTBRLkHG6BY6N0ZfRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722376118960-7fn61a554rphidkb1qlj44bmr7uifm8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722376118960-6ljdm4olgkh88v7b3msh4qtoaj3nsb4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blitarsehat.pasien"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

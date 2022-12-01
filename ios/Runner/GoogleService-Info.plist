@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>869112136240-3r3d97l0f9km32ov0708oiaq467l587g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.869112136240-3r3d97l0f9km32ov0708oiaq467l587g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>869112136240-70r8vjejf7u82k549tlb7iap1f9jbtib.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATAUYcxnDAmpSSeew695HzdhlcVbed5ec</string>
+	<key>GCM_SENDER_ID</key>
+	<string>869112136240</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.blitarsehat.dokter</string>
+	<key>PROJECT_ID</key>
+	<string>blitar-sehat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blitar-sehat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:869112136240:ios:038be5f09830ff00cf23f5</string>
+</dict>
+</plist>
